@@ -1,0 +1,6 @@
+Sri Jyoti Astro v1.8 — Prediction report artwork cleanup
+
+- Removed accidentally embedded phrases 'considerably high.' and 'concerning marriage.' from the master footer image used on every prediction report page.
+- Resized the existing doctor's portrait in master_header.png to a smaller portrait than the fixed Sri Jyoti Astro logo. The person's face is taken from the original raster artwork; it was not AI regenerated.
+- The report layout, saved birth profiles, D1/D9 calculations, Dasha–Bhukti, Nakshatra Porutham and marriage matching are otherwise unchanged.
+- The marriage report module remains free of Dasha–Bhukti analysis and Marriage Matching Considerations, and long PNG marriage reports export as an A4-pages ZIP.

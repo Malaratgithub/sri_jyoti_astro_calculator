@@ -1,0 +1,4 @@
+pyswisseph>=2.10.3.2,<3
+tzdata>=2025.2
+Pillow>=10.0,<13
+timezonefinder>=6.5,<9
